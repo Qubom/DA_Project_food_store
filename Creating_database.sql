@@ -5,10 +5,11 @@
 -- 3. Order Items
 -- 4. Products
 -- 5. Product Categories
--- 6. Inventory
--- 7. Social Media Engagement
--- 8. Locations
--- 9. Staffing
+-- 6. Product Manufacturers
+-- 7. Inventory
+-- 8. Social Media Engagement
+-- 9. Locations
+-- 10. Staffing
 
 -- Create Database
 CREATE DATABASE haute_epicerie;
@@ -56,12 +57,14 @@ CREATE TABLE Products (
   `ProductID` int AUTO_INCREMENT,
   `ProductName` varchar(255) NOT NULL,
   `Description` text,
+  `ManufacturerID` int, -- References Product Manufacturers Table
   `CategoryID` int,  -- References Product Categories Table
   `UnitPrice` decimal(10, 2) NOT NULL,
   `EliteFood` boolean DEFAULT 0,
   `Delicatessen` boolean DEFAULT 0,
   PRIMARY KEY (`ProductID`),
-  FOREIGN KEY (`CategoryID`) REFERENCES ProductCategories(`CategoryID`)
+  FOREIGN KEY (`CategoryID`) REFERENCES ProductCategories(`CategoryID`),
+  FOREIGN KEY (`ManufacturerID`) REFERENCES ProductManufacturers(`ManufacturerID`)
 );
 
 -- 5. Product Categories Table
@@ -71,7 +74,14 @@ CREATE TABLE ProductCategories (
   PRIMARY KEY (`CategoryID`)
 );
 
--- 6. Inventory Table
+-- 6. Product Manufacturers Table
+CREATE TABLE ProductManufacturers (
+  `ManufacturerID` int AUTO_INCREMENT,
+  `ManufacturerName` varchar(100) NOT NULL,
+  PRIMARY KEY (`ManufacturerID`)
+);
+
+-- 7. Inventory Table
 CREATE TABLE Inventory (
   `InventoryID` int AUTO_INCREMENT,
   `ProductID` int,
@@ -82,7 +92,7 @@ CREATE TABLE Inventory (
   FOREIGN KEY (`ProductID`) REFERENCES Products(`ProductID`)
 );
 
--- 7. Social Media Engagement Table
+-- 8. Social Media Engagement Table
 CREATE TABLE SocialMediaEngagement (
   `EngagementID` int AUTO_INCREMENT,
   `Platform` enum('Twitter/X', 'Instagram', 'Facebook', 'TikTok', 'Other') NOT NULL,
@@ -92,7 +102,7 @@ CREATE TABLE SocialMediaEngagement (
   PRIMARY KEY (`EngagementID`)
 );
 
--- 8. Locations Table
+-- 9. Locations Table
 CREATE TABLE Locations (
   `LocationID` int AUTO_INCREMENT,
   `Name` varchar(255) NOT NULL,
@@ -102,11 +112,13 @@ CREATE TABLE Locations (
   PRIMARY KEY (`LocationID`)
 );
 
--- 9. Staffing Table
+-- 10. Staffing Table
 CREATE TABLE Staffing (
   `StaffID` int AUTO_INCREMENT,
-  `Name` varchar(255) NOT NULL,
+  `Full Name` varchar(255) NOT NULL,
   `Role` varchar(100) NOT NULL,
-  `Availability` json,  -- Stores availability in JSON format (e.g., {"Monday": "09:00-21:00", ...})
-  PRIMARY KEY (`StaffID`)
+  `Availability` json,  -- Stores availability in JSON format (e.g., {"Monday": "09:00-21:00", ...}),
+  `LocationID` int,
+  PRIMARY KEY (`StaffID`),
+  FOREIGN KEY (`LocationID`) REFERENCES Locations(`LocationID`)
 );
