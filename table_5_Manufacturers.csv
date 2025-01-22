@@ -1,0 +1,67 @@
+manufacturer_id,manufacturer_name,category_id
+1,Fromagerie Belle Époque,1
+2,La Ferme des Saveurs,1
+3,Caseificio Artigianale di Montagna,1
+4,La Ferme aux Fromages Fins,1
+5,Le Petit Affineur,1
+6,Cioccolateria del Re,2
+7,La Maison du Chocolat,2
+8,ChocoLux Delights,2
+9,Dolci Tentazioni,2
+10,Haute Épicerie (Own production),3
+11,Spezie Artigianali,3
+12,La Boutique des Saveurs,3
+13,Oriental Aromatics Co.,3
+14,Saffron & Sage Exotics,3
+15,Zest & Zing Spices,3
+16,L'Or Vert de la Méditerranée,4
+17,Huile d'Olive de Provence,4
+18,Olio Pregiato di Toscana,4
+19,Mediterra Noble Oils,4
+20,OlivoMondo,4
+21,Sacred Olive Co.,4
+22,Frantoio Artigianale,4
+23,Cantine del Barone,5
+24,Vignoble de la Lumière,5
+25,Château des Grands Crus,5
+26,Domaine des Vignes Dorées,5
+27,Vini Nobili di Toscana,5
+28,Charcuterie des Saveurs,6
+29,Antica Salumeria,6
+30,Charcuterie du Terroir,6
+31,Salumeria Artigianale,6
+32,Charcuterie Royale,6
+33,Gourmet Fungus Delights,7
+34,Truffes du Périgord,7
+35,Tartufi del Piemonte,7
+36,Aroma Farms,7
+37,Exquisite Tuber,7
+38,EcoChai Brews,8
+39,Nature’s Infusion,8
+40,Tè Biologico di Sicilia,8
+41,Tè dell'Antica Tradizione,8
+42,Thés des Jardins Naturels,8
+43,PureSteep Teas,8
+44,Caffè Artigianale di Roma,9
+45,Le Petit Torréfacteur,9
+46,Torrefazione Artigianale,9
+47,Café Supreme Origins,9
+48,Bean Envy Roasters,9
+49,Highland Brew Coffee,9
+50,Artisan Roast Co.,9
+51,Imperial Sturgeon,10
+52,Caviar House & Prunier,10
+53,Black Diamond Caviar,10
+54,La Perle Noire,10
+55,Pastificio Artigiano,11
+56,Pasta Artigianale di Napoli,11
+57,Ecco Pasta,11
+58,Pâtes des Saveurs Anciennes,11
+59,Pâtes Faites à la Main,11
+60,Pâtes Fraîches de Provence,11
+61,Pastificio del Nonno,11
+62,Vinaigres Fins de Bordeaux,12
+63,Aceto Balsamico Tradizionale di Modena,12
+64,Aceto di Vino Vecchio,12
+65,Classic Condiment Co.,12
+66,Aceto Pregiato,12
