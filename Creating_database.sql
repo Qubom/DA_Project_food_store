@@ -60,8 +60,6 @@ CREATE TABLE Products (
   `ManufacturerID` int, -- References Product Manufacturers Table
   `CategoryID` int,  -- References Product Categories Table
   `UnitPrice` decimal(10, 2) NOT NULL,
-  `EliteFood` boolean DEFAULT 0,
-  `Delicatessen` boolean DEFAULT 0,
   PRIMARY KEY (`ProductID`),
   FOREIGN KEY (`CategoryID`) REFERENCES ProductCategories(`CategoryID`),
   FOREIGN KEY (`ManufacturerID`) REFERENCES ProductManufacturers(`ManufacturerID`)
