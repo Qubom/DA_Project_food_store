@@ -1,0 +1,269 @@
+ProductID,ProductName,Description,ManufacturerID,CategoryID,UnitPrice
+1,Beluga Caviar,"The pinnacle of luxury, Beluga caviar features large, delicate pearls with a buttery, smooth flavor and a rich, creamy texture.",53,10,115.94
+2,Osetra Caviar,"A premium caviar with medium-sized pearls, offering a nutty, briny flavor and a firm, satisfying texture.",54,10,112.01
+3,Sevruga Caviar,"A classic caviar with small, glossy pearls, offering a bold, briny flavor and a smooth, velvety finish.",54,10,166.53
+4,Kaluga Hybrid Caviar,"A luxurious caviar with large, glossy pearls, offering a buttery, rich flavor and a delicate, melt-in-your-mouth texture.",52,10,159.27
+5,Sterlet Caviar,"A rare and exquisite caviar with small, golden pearls, offering a delicate, slightly sweet flavor and a smooth, creamy texture.",52,10,131.89
+6,Royal White Sturgeon Caviar,"A premium caviar with medium-sized pearls, offering a rich, buttery flavor and a smooth, luxurious finish.",51,10,183.38
+7,Siberian Sturgeon Caviar,"A sustainable luxury caviar with medium-sized pearls, offering a balanced, briny flavor and a firm, satisfying texture.",53,10,199.17
+8,Golden Osetra Caviar,"A rare and luxurious caviar with golden pearls, offering a nutty, buttery flavor and a smooth, creamy texture.",54,10,135.02
+9,Ethiopian Yirgacheffe,"A single-origin coffee with bright, floral notes and a citrusy finish, offering a complex and vibrant flavor profile.",48,9,11.59
+10,Colombian Supremo,"A well-balanced coffee with medium acidity, offering notes of caramel, nuts, and a hint of fruit.",49,9,14.72
+11,Sumatra Mandheling,"A dark, earthy coffee with low acidity and notes of chocolate, tobacco, and a syrupy body.",46,9,12.24
+12,Guatemalan Antigua,"A rich, full-bodied coffee with a smoky aroma and notes of cocoa, spice, and a hint of citrus.",48,9,16.42
+13,Kenyan AA,"A bold, high-acidity coffee with bright berry notes and a wine-like finish, perfect for those who enjoy a vibrant cup.",45,9,17.58
+14,Costa Rican Tarrazú,"A smooth, medium-bodied coffee with bright acidity and notes of honey, citrus, and a clean finish.",47,9,12.29
+15,Brazilian Santos,"A low-acidity coffee with a nutty, chocolatey flavor and a smooth, creamy body.",44,9,18.66
+16,Jamaican Blue Mountain,"A premium coffee with a mild, smooth flavor and notes of nuts, chocolate, and a bright acidity.",49,9,16.43
+17,Hawaiian Kona,"A smooth, medium-bodied coffee with a rich aroma and notes of nuts, fruit, and a hint of spice.",50,9,19.67
+18,Tanzanian Peaberry,"A bright, fruity coffee with medium acidity and notes of black currant, citrus, and a hint of chocolate.",49,9,9.55
+19,Nicaraguan Maragogype,"A rare, large-bean coffee with a smooth, mild flavor and notes of caramel, nuts, and a hint of fruit.",50,9,19.8
+20,Peruvian Andean,"A medium-bodied coffee with bright acidity and notes of citrus, floral, and a clean, crisp finish.",48,9,15.6
+21,Mexican Chiapas,"A smooth, light-bodied coffee with bright acidity and notes of chocolate, nuts, and a hint of citrus.",44,9,13.6
+22,Rwandan Bourbon,"A bright, fruity coffee with medium acidity and notes of red berries, citrus, and a floral finish.",49,9,16.25
+23,Indonesian Sulawesi,"A full-bodied coffee with low acidity and notes of dark chocolate, earth, and a spicy finish.",50,9,19.02
+24,Panamanian Geisha,"A highly sought-after coffee with a delicate, tea-like body and notes of jasmine, bergamot, and tropical fruit.",45,9,9.15
+25,Bolivian Caranavi,"A medium-bodied coffee with bright acidity and notes of caramel, citrus, and a hint of floral sweetness.",44,9,19.08
+26,Truffle Infused Olive Tapenade,"A gourmet blend of olives, capers, and black truffle, offering an earthy, savory flavor perfect for spreading on bread or pairing with cheeses.",37,7,81.66
+27,Organic Blueberry Tea,"A caffeine-free herbal tea made from organic blueberries, offering a sweet, fruity flavor and numerous health benefits.",38,8,13.45
+28,Handmade Orecchiette,"Small, ear-shaped pasta made with traditional techniques, offering a perfect texture for holding onto chunky sauces or vegetable-based dishes.",60,11,20.68
+29,Fig Balsamic Glaze,"A thick, sweet, and tangy glaze made from aged balsamic vinegar and figs, perfect for drizzling over salads, cheeses, or desserts.",66,12,23.47
+30,Italian Ricotta Salata Cheese,"A firm, salted cheese made from sheep's milk, offering a mild, tangy flavor perfect for grating over pasta or salads.",3,1,22.32
+31,Dark Chocolate Orange Bark,"Rich dark chocolate studded with zesty orange pieces, offering a perfect balance of sweetness and citrusy tang.",7,2,10.43
+32,Fennel Seeds,"Aromatic seeds with a sweet, licorice-like flavor, perfect for enhancing sausages, breads, and spice blends.",12,3,12.2
+33,Grapeseed Oil Spray,"A convenient spray made from pure grapeseed oil, offering a light, neutral flavor and a high smoke point, perfect for cooking and baking.",16,4,12.06
+34,Sauvignon Blanc White Wine,"A crisp, refreshing white wine with flavors of green apple, citrus, and herbal notes, perfect for pairing with seafood and salads.",25,5,48.84
+35,Spanish Sobrasada Sausage,"A soft, spreadable sausage with a rich, smoky flavor, perfect for charcuterie boards, tapas, or spreading on bread.",30,6,16.95
+36,Truffle Infused Pesto,"A luxurious blend of basil, pine nuts, Parmesan, and black truffle, offering an earthy, umami flavor that elevates pastas, sandwiches, and dips.",33,7,43.94
+37,Organic Elderflower Tea,"A delicate, caffeine-free tea made from organic elderflowers, offering a floral, slightly sweet flavor perfect for relaxation and unwinding.",43,8,9.03
+38,Handmade Farfalle,"Bow-tie shaped pasta made with traditional techniques, offering a delightful texture that pairs well with light cream sauces or pesto.",61,11,8.19
+39,Pomegranate Balsamic Glaze,"A thick, sweet, and tangy glaze made from aged balsamic vinegar and pomegranates, perfect for drizzling over salads, cheeses, or desserts.",64,12,10.23
+40,Greek Feta Cheese,"A brined cheese made from sheep's milk, offering a tangy, salty flavor perfect for salads, pastries, and Mediterranean dishes.",4,1,11.55
+41,White Chocolate Macadamia Bark,"A delightful combination of creamy white chocolate and crunchy macadamia nuts, offering a sweet and indulgent treat.",8,2,9.31
+42,Cumin Seeds,"Aromatic seeds with a warm, earthy flavor, perfect for enhancing curries, stews, and spice blends.",11,3,5.19
+43,Walnut Oil Dressing,"A rich, nutty dressing made from pure walnut oil, perfect for enhancing salads, roasted vegetables, and grain bowls.",22,4,12.06
+44,Prosecco Sparkling Wine,"A light, bubbly Italian sparkling wine with flavors of green apple, pear, and citrus, perfect for celebrations or as an aperitif.",27,5,247.47
+45,Italian Capocollo,"A dry-cured pork shoulder with a rich, savory flavor, perfect for charcuterie boards, sandwiches, or antipasti.",29,6,28.11
+46,Truffle Infused Cheese Spread,"A creamy cheese spread infused with black truffle, offering an earthy, umami flavor perfect for crackers, bread, or vegetables.",34,7,45.9
+47,Organic Rosehip Tea,"A caffeine-free herbal tea made from organic rosehips, offering a tart, fruity flavor and numerous health benefits.",42,8,5.56
+48,Handmade Cavatelli,"Small, shell-shaped pasta made with traditional techniques, offering a perfect texture for holding onto thick, hearty sauces.",60,11,7.62
+49,Blackberry Balsamic Glaze,"A thick, sweet, and tangy glaze made from aged balsamic vinegar and blackberries, perfect for drizzling over salads, cheeses, or desserts.",63,12,18.54
+50,French Camembert Cheese,"A soft, creamy cheese with a bloomy rind, offering a rich, buttery flavor that?s perfect for cheese boards or baked dishes.",1,1,40.13
+51,Dark Chocolate Raspberry Bark,"Rich dark chocolate studded with tangy raspberry pieces, offering a perfect balance of sweetness and tartness.",6,2,6.71
+52,Turmeric Powder,"A vibrant yellow spice with a warm, earthy flavor, perfect for enhancing curries, soups, and health tonics.",14,3,12.41
+53,Avocado Oil Dressing,"A rich, buttery dressing made from pure avocado oil, perfect for enhancing salads, grain bowls, and roasted vegetables.",22,4,9.62
+54,Ros? Sparkling Wine,"A light, bubbly ros? with flavors of strawberry, raspberry, and citrus, perfect for celebrations or pairing with light dishes.",24,5,158.81
+55,Spanish Salchichõn Sausage,"A dry-cured sausage with a rich, savory flavor, perfect for charcuterie boards, tapas, or as a standalone snack.",28,6,31.47
+56,Spanish Lomo Embuchado,"A premium cured pork loin, seasoned with paprika and garlic, offering a rich, savory flavor perfect for charcuterie boards or tapas.",28,6,13.5
+57,Truffle Infused Aioli,"A luxurious blend of creamy aioli and black truffle, offering an earthy, umami flavor that elevates sandwiches, fries, and dips.",35,7,68.5
+58,Organic Ginger Turmeric Tea,"A soothing blend of organic ginger and turmeric, offering a spicy, warming flavor that aids digestion and boosts immunity.",39,8,13.69
+59,Handmade Radiatori,"Radiator-shaped pasta with ridges, made with traditional techniques, offering a perfect texture for holding onto thick, hearty sauces.",58,11,16.34
+60,Apricot Balsamic Vinegar,"Aged balsamic vinegar infused with sweet apricots, offering a tangy, fruity flavor perfect for dressings, marinades, and desserts.",62,12,25.45
+61,English Cheddar Cheese,"Aged to perfection, this sharp cheddar offers a bold, tangy flavor and a crumbly texture, perfect for cheese boards or melting into dishes.",5,1,32.6
+62,White Chocolate Pistachio Bark,"A delightful combination of creamy white chocolate and crunchy pistachios, offering a sweet and nutty treat for any occasion.",9,2,14.23
+63,Cardamom Pods,"Aromatic green pods with a sweet, floral flavor, perfect for enhancing curries, baked goods, and spiced beverages.",15,3,3.51
+64,Sesame Oil Spray,"A convenient spray made from pure sesame oil, offering a rich, nutty flavor that enhances stir-fries, dressings, and marinades.",16,4,27.01
+65,Zinfandel Red Wine,"A bold, fruity red wine with flavors of blackberry, cherry, and spice, perfect for pairing with grilled meats and hearty dishes.",25,5,56.45
+66,Italian Bresaola,"Air-dried, salted beef with a delicate, savory flavor, perfect for charcuterie boards, salads, or antipasti.",31,6,30.85
+67,Truffle Infused Hummus,"A gourmet blend of creamy hummus and black truffle, offering an earthy, umami flavor that elevates snacks and appetizers.",34,7,68.61
+68,Organic Peppermint Chamomile Tea,"A calming blend of organic peppermint and chamomile, offering a refreshing, soothing flavor perfect for relaxation and unwinding.",43,8,11.42
+69,Handmade Trofie,"Twisted, short pasta made with traditional techniques, offering a perfect texture for holding onto pesto or creamy sauces.",57,11,22.85
+70,Black Currant Balsamic Vinegar,"Aged balsamic vinegar infused with sweet black currants, offering a tangy, fruity flavor perfect for dressings, marinades, and desserts.",64,12,29.88
+71,French Brie Cheese,"A soft, creamy cheese with a bloomy rind, offering a mild, buttery flavor that?s perfect for cheese boards or baked dishes.",4,1,22.27
+72,Dark Chocolate Almond Bark,"Rich dark chocolate studded with crunchy almonds, offering a perfect balance of sweetness and nuttiness.",8,2,6.46
+73,Coriander Seeds,"Aromatic seeds with a citrusy, slightly sweet flavor, perfect for enhancing curries, pickles, and spice blends.",15,3,8.53
+74,Pumpkin Seed Oil Spray,"A convenient spray made from pure pumpkin seed oil, offering a rich, nutty flavor that enhances salads, soups, and roasted vegetables.",22,4,12.97
+75,Pinot Grigio White Wine,"A crisp, refreshing white wine with flavors of green apple, pear, and citrus, perfect for pairing with seafood and light dishes.",23,5,221.13
+76,Spanish Fuet Sausage,"A thin, dry-cured sausage with a mild, savory flavor, perfect for charcuterie boards, tapas, or as a standalone snack.",32,6,35.92
+77,Truffle Infused Butter,"A luxurious blend of creamy butter and black truffle, offering an earthy, umami flavor that enhances steaks, pastas, and bread.",36,7,67.29
+78,Organic Lemongrass Tea,"A refreshing, caffeine-free tea made from organic lemongrass, offering a citrusy, herbal flavor that soothes and invigorates.",40,8,13.51
+79,Handmade Strozzapreti,"Hand-rolled, twisted pasta made with traditional techniques, offering a perfect texture for holding onto rich, hearty sauces.",55,11,8
+80,Raspberry Balsamic Glaze,"A thick, sweet, and tangy glaze made from aged balsamic vinegar and raspberries, perfect for drizzling over salads, cheeses, and desserts.",65,12,14.23
+81,Dutch Edam Cheese,"A semi-hard cheese with a mild, nutty flavor and a smooth texture, perfect for cheese boards, sandwiches, or melting.",1,1,40.48
+82,Milk Chocolate Toffee Crunch,"A delightful combination of creamy milk chocolate and crunchy toffee, offering a sweet and indulgent treat for any occasion.",8,2,9.52
+83,Mustard Seeds,"Tiny, pungent seeds with a sharp, tangy flavor, perfect for pickling, seasoning, or making homemade mustard.",15,3,13.89
+84,Hazelnut Oil Spray,"A convenient spray made from pure hazelnut oil, offering a rich, nutty flavor that enhances salads, desserts, and roasted vegetables.",22,4,8.11
+85,Chardonnay White Wine,"A versatile white wine with flavors of apple, pear, and vanilla, perfect for pairing with poultry, seafood, or creamy pasta dishes.",27,5,36.4
+86,French Saucisson Sec,"A dry-cured sausage with a rich, savory flavor, perfect for charcuterie boards, sandwiches, or as a standalone snack.",30,6,19.56
+87,Handmade Gemelli,"Twisted, double-strand pasta made with traditional techniques, offering a unique texture that pairs perfectly with chunky sauces or baked dishes.",56,11,18.2
+88,Peach Balsamic Vinegar,"Aged balsamic vinegar infused with sweet peaches, offering a tangy, fruity flavor perfect for dressings, marinades, and desserts.",66,12,18.84
+89,Truffle Infused Salted Caramels,"A luxurious blend of creamy salted caramel and earthy truffle, offering a sweet and savory treat that delights the palate.",37,7,117.53
+90,Organic Moroccan Mint Tea,"A refreshing blend of organic green tea and fresh mint leaves, offering a bright, invigorating flavor that?s perfect any time of day.",40,8,7.8
+91,Handmade Pappardelle,"Wide, ribbon-like pasta made with premium durum wheat, offering a perfect texture for hearty sauces like rag? or mushroom cream.",55,11,21.13
+92,Aged Apple Cider Vinegar,"Aged to perfection, this apple cider vinegar offers a tangy, slightly sweet flavor, perfect for dressings, marinades, and health tonics.",65,12,20.08
+93,Danish Havarti Cheese,"A semi-soft cheese with a buttery texture and mild, tangy flavor, perfect for sandwiches, cheese boards, or melting into dishes.",5,1,33.49
+94,Dark Chocolate Chili Bars,"Rich dark chocolate bars infused with a hint of chili, offering a perfect balance of sweetness and a subtle, spicy kick.",7,2,18.11
+95,Smoked Cumin Seeds,"Cumin seeds slow-smoked over wood fires, offering a deep, smoky flavor that enhances curries, stews, and grilled meats.",15,3,10.06
+96,Cold-Pressed Flaxseed Oil,"A nutrient-rich oil made from cold-pressed flaxseeds, offering a nutty flavor and high omega-3 content, perfect for dressings and dips.",17,4,20.7
+97,Rioja Red Wine,"A renowned Spanish red wine with flavors of red berries, vanilla, and oak, perfect for pairing with roasted meats and tapas.",26,5,204.6
+98,Italian Pancetta,"A flavorful, cured pork belly with a rich, savory taste, perfect for adding depth to pasta dishes, salads, or antipasti.",29,6,19.38
+99,Truffle Infused Mayonnaise,"A gourmet blend of creamy mayonnaise and black truffle, offering an earthy, umami flavor that elevates sandwiches, fries, and dips.",37,7,101.16
+100,Organic Chrysanthemum Tea,"A delicate, caffeine-free tea made from organic chrysanthemum flowers, offering a floral, slightly sweet flavor and calming properties.",41,8,12.99
+101,Handmade Bucatini,"Hollow, spaghetti-like pasta made with traditional techniques, offering a perfect texture for holding onto rich, hearty sauces.",56,11,10.58
+102,Pear Balsamic Vinegar,"Aged balsamic vinegar infused with sweet pears, offering a tangy, fruity flavor perfect for dressings, marinades, and desserts.",64,12,24.17
+103,Swiss Gruy?re Cheese,"A firm, creamy cheese with a nutty, slightly sweet flavor, perfect for fondue, gratins, or cheese boards.",2,1,23.52
+104,Milk Chocolate Pecan Clusters,"A delightful combination of creamy milk chocolate and crunchy pecans, offering a perfect balance of sweetness and nuttiness.",9,2,17.14
+105,Fenugreek Seeds,"Aromatic seeds with a slightly sweet, nutty flavor, perfect for enhancing curries, pickles, and spice blends.",15,3,5.88
+106,Avocado Oil Spray,"A convenient spray made from pure avocado oil, offering a high smoke point and a rich, buttery flavor, perfect for cooking and baking.",19,4,20.48
+107,Malbec Red Wine,"A bold, full-bodied red wine with flavors of blackberry, plum, and hints of cocoa, perfect for pairing with grilled meats and hearty dishes.",26,5,62.74
+108,French Duck Prosciutto,"A delicately cured duck breast with a rich, savory flavor, perfect for charcuterie boards, salads, or as a standalone snack.",28,6,16.44
+109,Truffle Infused Popcorn,"Gourmet popcorn seasoned with truffle oil, offering an earthy, umami flavor that elevates your snacking experience.",35,7,55.38
+110,Organic Rooibos Chai Tea,"A caffeine-free blend of rooibos tea and chai spices, offering a warm, spicy flavor that?s perfect for relaxation and unwinding.",42,8,10.18
+111,Handmade Campanelle,"Bell-shaped pasta with ruffled edges, made with traditional techniques, offering a perfect texture for holding onto creamy or chunky sauces.",55,11,22.82
+112,Plum Balsamic Vinegar,"Aged balsamic vinegar infused with sweet plums, offering a tangy, fruity flavor perfect for dressings, marinades, and desserts.",64,12,17.69
+113,Italian Taleggio Cheese,"A soft, creamy cheese with a mild, tangy flavor and a pungent aroma, perfect for cheese boards or melting into risottos.",2,1,26.57
+114,Dark Chocolate Mint Truffles,"Rich dark chocolate truffles infused with refreshing mint, offering a cool and indulgent treat for chocolate lovers.",9,2,15.9
+115,Star Anise Pods,"Aromatic star-shaped pods with a sweet, licorice-like flavor, perfect for enhancing soups, stews, and baked goods.",10,3,6.94
+116,Walnut Oil Spray,"A convenient spray made from pure walnut oil, offering a rich, nutty flavor that enhances salads, pastas, and baked goods.",18,4,10.22
+117,Shiraz Red Wine,"A bold, full-bodied red wine with flavors of dark berries, pepper, and spice, perfect for pairing with grilled meats and hearty dishes.",26,5,39.02
+118,Cabernet Sauvignon,"A full-bodied red wine with rich flavors of blackcurrant, plum, and hints of oak, perfect for pairing with red meats and hearty dishes.",24,5,246.82
+119,German Black Forest Ham,"A delicately smoked and cured ham with a rich, savory flavor, perfect for sandwiches, charcuterie boards, or as a standalone snack.",30,6,15.1
+120,Truffle Oil Popcorn,"Gourmet popcorn drizzled with luxurious truffle oil, offering an earthy, umami flavor that elevates your snacking experience.",36,7,130.12
+121,Organic Hibiscus Tea,"A vibrant, caffeine-free tea made from dried hibiscus flowers, offering a tart, cranberry-like flavor and numerous health benefits.",40,8,10.64
+122,Handmade Rigatoni,"Tube-shaped pasta with ridges, made with traditional techniques, offering a perfect texture for holding onto thick, hearty sauces.",61,11,6.83
+123,Blackberry Balsamic Vinegar,"Aged balsamic vinegar infused with sweet blackberries, offering a tangy, fruity flavor perfect for dressings, marinades, and desserts.",66,12,15.87
+124,French Roquefort Cheese,"A bold and creamy blue cheese with distinctive veins of mold, offering a sharp, tangy flavor that pairs perfectly with wines and fruits.",1,1,37.98
+125,Dark Chocolate Coconut Bars,"Rich dark chocolate bars filled with shredded coconut, offering a perfect blend of sweetness and tropical flavor.",9,2,18.74
+126,Za'atar Spice Mix,"A Middle Eastern blend of thyme, sesame seeds, and sumac, offering a tangy, nutty flavor perfect for seasoning breads, meats, and dips.",15,3,14.86
+127,Sesame Oil,"A rich, nutty oil made from toasted sesame seeds, perfect for adding depth to stir-fries, dressings, and marinades.",16,4,15.03
+128,Chianti Red Wine,"A classic Italian red wine with flavors of cherry, plum, and earthy undertones, perfect for pairing with pasta and grilled meats.",27,5,127.13
+129,Hungarian Salami,"A spicy, smoky salami with a rich, bold flavor, perfect for charcuterie boards, sandwiches, or as a standalone snack.",29,6,12.24
+130,Truffle Salt Popcorn,"Gourmet popcorn seasoned with truffle salt, offering a savory, umami flavor that elevates your snacking experience.",33,7,32.42
+131,Organic Green Rooibos Tea,"A caffeine-free herbal tea made from unfermented rooibos leaves, offering a light, refreshing flavor with numerous health benefits.",39,8,11.86
+132,Handmade Orzo,"Rice-shaped pasta made with traditional techniques, offering a versatile texture perfect for soups, salads, and casseroles.",59,11,22.14
+133,Blueberry Balsamic Vinegar,"Aged balsamic vinegar infused with sweet blueberries, offering a tangy, fruity flavor perfect for dressings, marinades, and desserts.",62,12,12.96
+134,Italian Pecorino Cheese,"A hard, salty cheese made from sheep's milk, offering a sharp, tangy flavor perfect for grating over pasta or salads.",3,1,18.79
+135,Milk Chocolate Almond Clusters,"A delightful combination of creamy milk chocolate and crunchy almonds, offering a perfect balance of sweetness and nuttiness.",9,2,12.77
+136,Ras el Hanout Spice Blend,"A complex North African spice blend featuring cinnamon, cumin, and coriander, offering a warm, aromatic flavor perfect for tagines and stews.",15,3,11.9
+137,Pumpkin Seed Oil,"A rich, nutty oil made from roasted pumpkin seeds, perfect for drizzling over salads, soups, or roasted vegetables.",17,4,9.55
+138,Merlot Red Wine,"A smooth, medium-bodied red wine with flavors of black cherry, plum, and hints of chocolate, perfect for pairing with a variety of dishes.",26,5,200.4
+139,French Saucisson Sec,"A dry-cured sausage with a rich, savory flavor, perfect for charcuterie boards, sandwiches, or as a standalone snack.",30,6,25.84
+140,Truffle Infused Salt,"A gourmet blend of sea salt and finely ground truffles, offering an earthy, umami flavor perfect for seasoning meats, fries, and popcorn.",34,7,100.81
+141,Organic Lemon Ginger Tea,"A refreshing blend of organic lemon and ginger, offering a zesty, spicy flavor that soothes the senses and aids digestion.",38,8,10.34
+142,Handmade Cavatappi,"Corkscrew-shaped pasta made with traditional techniques, offering a perfect texture for holding onto thick, hearty sauces.",58,11,7.02
+143,Cherry Balsamic Vinegar,"Aged balsamic vinegar infused with sweet cherries, offering a tangy, fruity flavor perfect for dressings, marinades, and desserts.",64,12,15.45
+144,Greek Kefalotyri Cheese,"A hard, salty cheese made from sheep's or goat's milk, offering a sharp, tangy flavor perfect for grating over pasta or salads.",3,1,41.22
+145,Dark Chocolate Hazelnut Bars,"Rich dark chocolate bars filled with crunchy hazelnuts, offering a perfect blend of sweetness and nuttiness.",8,2,17.27
+146,Berbere Spice Blend,"A fiery Ethiopian spice blend featuring chili peppers, garlic, and ginger, offering a bold, complex flavor perfect for stews and marinades.",10,3,8.96
+147,Hazelnut Oil,"A rich, nutty oil made from roasted hazelnuts, perfect for drizzling over salads, desserts, or roasted vegetables.",19,4,27.58
+148,Sauvignon Blanc,"A crisp, refreshing white wine with flavors of green apple, citrus, and herbal notes, perfect for pairing with seafood and salads.",25,5,101.54
+149,Spanish Jamõn Ib?rico,"A premium dry-cured ham from acorn-fed Iberian pigs, offering a rich, nutty flavor and a melt-in-your-mouth texture.",31,6,35.29
+150,Truffle Infused Olive Oil,"A luxurious blend of extra virgin olive oil and black truffle, offering an earthy, umami flavor perfect for enhancing gourmet dishes.",36,7,66.11
+151,Organic Chamomile Lavender Tea,"A calming blend of organic chamomile and lavender, offering a floral, soothing flavor perfect for relaxation and unwinding.",38,8,6.17
+152,Dark Chocolate Espresso Beans,"A perfect blend of rich dark chocolate and roasted espresso beans, offering a crunchy, caffeinated treat for chocolate and coffee lovers alike.",44,9,9.78
+153,Smoked Garlic Powder,"Garlic powder slow-smoked over wood fires, offering a deep, smoky flavor that enhances marinades, rubs, and savory dishes.",10,3,14.02
+154,Extra Virgin Olive Oil,"Cold-pressed from the finest olives, this extra virgin olive oil offers a fruity aroma and a robust flavor, perfect for dressings, dips, and cooking.",21,4,14.29
+155,Barolo Red Wine,"A prestigious Italian red wine known as the 'King of Wines,' offering complex flavors of red fruit, tar, and roses, perfect for special occasions.",24,5,205.99
+156,Prosciutto di Parma,"Aged for over 24 months, this Italian dry-cured ham offers a delicate, sweet flavor and a buttery texture, perfect for charcuterie boards or antipasti.",29,6,34.12
+157,White Truffle Püt?,"A luxurious blend of finely ground white truffles and creamy püt?, offering an earthy, umami flavor that elevates toast, crackers, and appetizers.",35,7,39.42
+158,Organic White Tea,"Made from young tea leaves and buds, this organic white tea offers a delicate, floral flavor and a light, refreshing brew.",43,8,13.16
+159,Handmade Conchiglie,"Shell-shaped pasta made with traditional techniques, offering a perfect texture for holding onto chunky sauces or baked dishes.",57,11,7.38
+160,Raspberry Balsamic Vinegar,"A sweet and tangy balsamic vinegar infused with ripe raspberries, perfect for drizzling over salads, desserts, or cheeses.",66,12,10.47
+161,Dutch Gouda Cheese,"Aged to perfection, this Dutch cheese offers a creamy texture and a nutty, caramel-like flavor, perfect for cheese boards or melting.",4,1,49.14
+162,Milk Chocolate Sea Salt Caramels,"A decadent combination of creamy milk chocolate, gooey caramel, and a touch of sea salt, offering a perfect balance of sweet and salty.",8,2,19.14
+163,Chipotle Chili Flakes,"Dried and crushed smoked jalape?o peppers, offering a smoky heat that enhances soups, stews, and grilled meats.",11,3,7.34
+164,Cold-Pressed Avocado Oil,"Extracted from ripe avocados, this oil offers a rich, buttery flavor and a high smoke point, perfect for cooking, dressings, and dips.",21,4,9.3
+165,Champagne Brut,"A classic dry champagne with crisp acidity and notes of green apple and citrus, perfect for celebrations or pairing with seafood.",24,5,227.91
+166,Spanish Chorizo,"A spicy, smoky sausage made with paprika and garlic, offering a bold flavor that enhances tapas, stews, and charcuterie boards.",32,6,33.66
+167,Black Truffle Mustard,"A gourmet blend of Dijon mustard and black truffle, offering an earthy, tangy flavor that elevates sandwiches, meats, and dressings.",35,7,112.86
+168,Organic Oolong Tea,"A semi-oxidized tea with a complex flavor profile, offering floral and fruity notes that make it a refreshing and aromatic brew.",43,8,12.78
+169,Handmade Lasagna Sheets,"Thin, delicate sheets of pasta made with premium ingredients, offering a perfect texture for layering in traditional lasagna dishes.",56,11,13.45
+170,Fig Balsamic Vinegar,"Aged balsamic vinegar infused with sweet figs, offering a rich, fruity flavor perfect for drizzling over salads, cheeses, or desserts.",65,12,15.41
+171,Swiss Emmental Cheese,"A classic Swiss cheese with a nutty, slightly sweet flavor and distinctive holes, perfect for fondue or sandwiches.",5,1,34.44
+172,Dark Chocolate Raspberry Bars,"Rich dark chocolate bars filled with tangy raspberry pieces, offering a harmonious blend of sweet and tart flavors.",7,2,10.4
+173,Sumac Spice,"A tangy, lemony spice made from ground sumac berries, perfect for seasoning salads, meats, and Middle Eastern dishes.",13,3,9.66
+174,Walnut Oil,"Cold-pressed from premium walnuts, this oil offers a rich, nutty flavor that enhances salads, pastas, and baked goods.",18,4,26.58
+175,Pinot Noir,"A light-bodied red wine with notes of cherry, raspberry, and earthy undertones, perfect for pairing with poultry or light pasta dishes.",25,5,220.76
+176,Italian Salami,"A flavorful, dry-cured sausage made with traditional Italian spices, offering a bold taste that?s perfect for charcuterie boards or sandwiches.",29,6,17.89
+177,Truffle Butter,"A luxurious blend of creamy butter and black truffle, offering an earthy, umami flavor that enhances steaks, pastas, and bread.",37,7,98.1
+178,Organic Pu-erh Tea,"A fermented tea with a deep, earthy flavor and numerous health benefits, offering a rich and soothing brew.",42,8,14.83
+179,Handmade Farfalle,"Bow-tie shaped pasta made with traditional techniques, offering a delightful texture that pairs well with light cream sauces or pesto.",56,11,21.61
+180,Pomegranate Balsamic Vinegar,"Aged balsamic vinegar infused with sweet pomegranate, offering a tangy, fruity flavor perfect for dressings, marinades, and desserts.",63,12,14.08
+181,English Stilton Cheese,"A classic blue cheese with a creamy texture and a sharp, tangy flavor, perfect for cheese boards or pairing with port wine.",1,1,28.81
+182,White Chocolate Macadamia Clusters,"A delightful combination of creamy white chocolate and crunchy macadamia nuts, offering a sweet and indulgent treat.",6,2,9.06
+183,Harissa Spice Blend,"A fiery North African blend of chili peppers, garlic, and spices, offering a bold, smoky heat that enhances stews, marinades, and dips.",10,3,12.32
+184,Grapeseed Oil,"A light, neutral oil with a high smoke point, perfect for frying, saut?ing, or adding to dressings and marinades.",18,4,21.22
+185,Handcrafted Pappardelle,"Wide, ribbon-like pasta made with premium durum wheat, offering a perfect texture for hearty sauces like rag? or mushroom cream.",56,11,21.9
+186,Black Truffle Salt,"A gourmet blend of sea salt and finely ground black truffles, adding an earthy, umami flavor to meats, fries, and popcorn.",33,7,125.39
+187,Smoked Black Pepper,"Black peppercorns slow-smoked over wood fires, offering a rich, smoky aroma and flavor that enhances grilled meats and savory dishes.",13,3,9.65
+188,Artisan Gouda Cheese,"Aged to perfection, this semi-hard cheese boasts a creamy texture and a nutty, caramel-like flavor, perfect for cheese boards or melting.",2,1,41.41
+189,White Chocolate Raspberry Truffles,"Decadent truffles made with creamy white chocolate and a tangy raspberry filling, offering a perfect balance of sweetness and fruitiness.",9,2,9.29
+190,Exotic Garam Masala,"A fragrant blend of ground spices, including cardamom, cinnamon, and cloves, offering a warm and complex flavor to Indian and Middle Eastern dishes.",13,3,12.11
+191,Organic Jasmine Pearl Tea,"Hand-rolled organic green tea leaves infused with jasmine flowers, offering a delicate floral aroma and a soothing, refreshing taste.",41,8,6.84
+192,Handmade Farfalle,"Bow-tie shaped pasta made with traditional techniques, offering a delightful texture that pairs well with light cream sauces or pesto.",56,11,8.72
+193,Balsamic Reduction,"A thick, sweet, and tangy glaze made from aged balsamic vinegar, perfect for drizzling over salads, cheeses, and desserts.",62,12,20.21
+194,French Sel Gris,"A moist, mineral-rich grey sea salt harvested from the Atlantic coast, offering a balanced flavor ideal for seasoning and finishing dishes.",12,3,8.85
+195,Italian Sambuca,"A classic Italian anise-flavored liqueur, offering a sweet and aromatic flavor that?s perfect as a digestif or in coffee-based cocktails.",23,5,47.94
+196,Artisan Camembert Cheese,"A soft, creamy cheese with a bloomy rind, offering a rich, buttery flavor that?s perfect for baking or enjoying on a cheese board.",3,1,42.11
+197,Dark Chocolate Mint Squares,"Rich dark chocolate squares infused with refreshing mint, offering a cool and indulgent treat for chocolate lovers.",8,2,17.42
+198,Premium Cinnamon Sticks,"Hand-rolled cinnamon sticks from Ceylon, offering a sweet and aromatic flavor perfect for baking, mulled drinks, and savory dishes.",13,3,10.11
+199,Organic Hibiscus Flowers,"Dried organic hibiscus flowers, known for their vibrant color and tart, cranberry-like flavor, perfect for brewing refreshing herbal teas.",41,8,14.24
+200,Handcrafted Penne,"Tube-shaped pasta with ridges, made with premium ingredients, offering a perfect texture for holding onto chunky sauces or baked dishes.",55,11,21.75
+201,Truffle Honey,"A luxurious blend of wildflower honey and black truffle essence, offering a sweet and earthy flavor that pairs beautifully with cheeses and charcuterie.",35,7,90.51
+202,Smoked Chipotle Powder,"Ground smoked jalape?o peppers, offering a deep, smoky heat that enhances marinades, rubs, and sauces.",10,3,8.77
+203,Artisan Parmesan Cheese,"Aged for over 24 months, this hard cheese offers a sharp, nutty flavor and a granular texture, perfect for grating over pasta or salads.",5,1,40.53
+204,Milk Chocolate Caramel Clusters,"A delightful combination of creamy milk chocolate and gooey caramel, offering a sweet and indulgent treat for any occasion.",8,2,9.68
+205,Exotic Za'atar Spice,"A Middle Eastern blend of thyme, sesame seeds, and sumac, offering a tangy, nutty flavor perfect for seasoning breads, meats, and dips.",13,3,8.67
+206,Organic Sencha Green Tea,"A premium Japanese green tea with a fresh, grassy flavor and a vibrant green color, offering a refreshing and antioxidant-rich brew.",38,8,9.19
+207,Handmade Orecchiette,"Small, ear-shaped pasta made with traditional techniques, offering a perfect texture for holding onto chunky sauces or vegetable-based dishes.",55,11,18.26
+208,Aged Red Wine Vinegar,"Aged in oak barrels, this red wine vinegar offers a robust, tangy flavor perfect for dressings, marinades, and deglazing.",62,12,19.45
+209,Truffle Infused Honey,"A unique blend of golden honey and black truffle, offering a sweet and earthy flavor that enhances cheeses, meats, and desserts.",34,7,132.56
+210,Organic Assam Tea,"A bold and malty black tea from the Assam region, offering a rich, full-bodied flavor perfect for breakfast or afternoon tea.",43,8,10.59
+211,Handmade Fusilli,"Corkscrew-shaped pasta made with premium ingredients, offering a perfect texture for holding onto thick sauces or baked dishes.",55,11,14.25
+212,Aged Modena Balsamic,"Aged for over 12 years, this balsamic vinegar from Modena offers a complex, sweet-tart flavor with a velvety finish, perfect for drizzling.",63,12,13.54
+213,French Comt? Cheese,"Aged for over 12 months, this French cheese offers a nutty, slightly sweet flavor and a firm texture, perfect for cheese boards or cooking.",4,1,35.59
+214,Organic Chamomile Flowers,"Gently dried organic chamomile flowers, known for their calming properties and delicate floral flavor. Perfect for a soothing cup of herbal tea.",43,8,6.36
+215,Handmade Gnocchi,"Soft, pillowy gnocchi made with premium ingredients, offering a melt-in-your-mouth texture that pairs beautifully with rich sauces or light butter and sage.",60,11,19.7
+216,Balsamic Glaze,"A thick, sweet, and tangy reduction of aged balsamic vinegar, ideal for drizzling over salads, roasted vegetables, or desserts like strawberries and ice cream.",65,12,24.97
+217,French Fleur de Sel,"A rare and delicate sea salt harvested by hand from the surface of salt ponds, offering a subtle crunch and a clean, briny flavor perfect for finishing dishes.",12,3,4.69
+218,Italian Limoncello,"A vibrant and zesty Italian liqueur made from the finest Amalfi Coast lemons, offering a refreshing citrus flavor that?s perfect as a digestif or cocktail base.",23,5,154.64
+219,Artisan Feta Cheese,"Crafted using traditional methods, this creamy and tangy feta cheese is brined to perfection, making it a versatile addition to salads, pastries, and Mediterranean dishes.",4,1,15.34
+220,Gourmet Caramel Sauce,"A rich and velvety caramel sauce made with pure cream and butter, perfect for drizzling over desserts, coffee, or ice cream for a decadent treat.",9,2,11.44
+221,Exotic Curry Powder,"A fragrant blend of spices, including turmeric, cumin, and coriander, offering a warm and complex flavor that elevates curries, stews, and marinades.",13,3,14.09
+222,Organic Earl Grey Tea,"A classic blend of organic black tea infused with natural bergamot oil, delivering a citrusy aroma and a refined, soothing flavor.",38,8,6.57
+223,Handcrafted Ravioli,"Delicately stuffed pasta pockets filled with premium ingredients like ricotta and spinach, offering a gourmet dining experience with every bite.",61,11,17.73
+224,White Truffle Butter,"A luxurious blend of creamy butter and the earthy aroma of white truffles, perfect for enhancing steaks, pastas, or simply spreading on warm bread.",34,7,37.25
+225,Smoked Sea Salt,"Sea salt slow-smoked over wood fires, imparting a rich, smoky flavor that enhances grilled meats, vegetables, and even cocktails.",10,3,6.14
+226,Artisan Cheddar Cheese,"Aged to perfection, this sharp and tangy cheddar cheese offers a bold flavor and crumbly texture, ideal for cheese boards or melting into dishes.",1,1,30.71
+227,Milk Chocolate Hazelnut Spread,"A smooth and creamy blend of milk chocolate and roasted hazelnuts, perfect for spreading on toast, drizzling over desserts, or enjoying by the spoonful.",7,2,19.86
+228,Sicilian Pistachios,"Premium pistachios from Sicily, known for their vibrant green color and rich, nutty flavor, perfect for snacking or adding to baked goods.",11,3,5.72
+229,Organic Peppermint Tea,"Made from organic peppermint leaves, this refreshing and caffeine-free tea offers a cool, minty flavor that soothes the senses and aids digestion.",39,8,7.44
+230,Handmade Tagliatelle,"Hand-cut ribbons of pasta made with the finest durum wheat, offering a perfect al dente texture that pairs beautifully with rich, hearty sauces.",55,11,22.67
+231,Aged Sherry Vinegar,"Aged in oak barrels, this sherry vinegar boasts a complex, nutty flavor with a hint of sweetness, perfect for dressings, marinades, and deglazing.",62,12,15.15
+232,French Grey Salt,"Harvested from the Atlantic coast, this mineral-rich grey salt offers a moist texture and a balanced flavor, ideal for seasoning and finishing dishes.",12,3,3.9
+233,Italian Amaretto,"A sweet and nutty Italian liqueur made from almonds and apricot kernels, offering a rich flavor that?s perfect for sipping or adding to desserts and cocktails.",23,5,165.17
+234,Artisan Brie Cheese,"A creamy and buttery brie with a soft, edible rind, offering a mild and luxurious flavor that?s perfect for cheese boards or baked dishes.",2,1,14.79
+235,Dark Chocolate Orange Sticks,"A delightful combination of rich dark chocolate and zesty orange, creating a harmonious balance of flavors in every bite.",6,2,14.86
+236,Rare Saffron Threads,"Handpicked saffron threads, known as the 'red gold,' offering a vibrant color and a unique, floral flavor that enhances rice dishes, stews, and desserts.",14,3,7.35
+237,Organic Rooibos Tea,"A caffeine-free herbal tea made from organic rooibos leaves, offering a naturally sweet and earthy flavor with numerous health benefits.",39,8,13.85
+238,Black Truffle Infused Olive Oil,"A luxurious blend of extra virgin olive oil infused with the rich, earthy aroma of black truffles. Perfect for elevating gourmet dishes, dressings, and dipping.",20,4,27.32
+239,Saffron Gold Threads,"The world's most precious spice, handpicked for its vibrant color and exquisite flavor. Ideal for adding a touch of luxury to rice dishes, stews, and desserts.",14,3,3.28
+240,Aged Balsamic Vinegar,"Aged to perfection, this balsamic vinegar offers a complex, sweet-tart flavor with a velvety finish. Perfect for drizzling over salads, cheeses, and desserts.",65,12,14.53
+241,Artisan Goat Cheese Wheel,"Crafted with care, this creamy and tangy goat cheese wheel is a versatile addition to charcuterie boards, salads, and baked dishes.",2,1,31.44
+242,Belgian Dark Chocolate Truffles,"Indulge in the rich, velvety texture of these handcrafted dark chocolate truffles, made with the finest Belgian cocoa for a decadent treat.",8,2,15.33
+243,Wild Forest Honey,"Sourced from untouched forests, this raw honey boasts a unique, robust flavor profile, perfect for sweetening teas, desserts, or drizzling over cheeses.",14,3,14.04
+244,Organic Darjeeling Tea Leaves,"Known as the 'Champagne of Teas,' these organic Darjeeling leaves offer a delicate, floral aroma and a refined taste, perfect for tea connoisseurs.",41,8,6.07
+245,Italian Porcini Mushroom Risotto,"A gourmet risotto blend featuring earthy porcini mushrooms, offering a rich and savory dish that brings the flavors of Italy to your table.",56,11,25.78
+246,French Lavender Salt,"A fragrant blend of sea salt and dried lavender flowers, adding a floral and savory twist to roasted meats, vegetables, and desserts.",12,3,12.43
+247,Spanish Manchego Cheese,"Aged to perfection, this classic Spanish cheese is firm, nutty, and slightly tangy, making it a standout addition to any cheese platter.",3,1,35.09
+248,Peruvian Pink Salt,"Harvested from ancient salt mines in the Andes, this mineral-rich pink salt adds a subtle flavor and a touch of elegance to any dish.",15,3,7.39
+249,Vanilla Bean Pods,"Premium vanilla bean pods, bursting with aromatic seeds, perfect for infusing desserts, beverages, and sauces with a rich, natural vanilla flavor.",12,3,9.12
+250,Handmade Linguine Pasta,"Crafted using traditional techniques, this linguine pasta offers a perfect al dente texture, ideal for pairing with seafood or light sauces.",55,11,14.26
+251,White Alba Truffle Oil,"A rare and exquisite oil infused with the delicate aroma of white Alba truffles, perfect for enhancing risottos, pastas, and gourmet dishes.",36,7,145.64
+252,Smoked Paprika,"Made from smoked red peppers, this paprika adds a deep, smoky flavor to meats, stews, and grilled vegetables.",10,3,7.89
+253,Artisan Sourdough Bread Mix,"A premium mix for creating authentic sourdough bread, offering a tangy flavor and chewy texture that?s perfect for artisanal baking.",58,11,21.77
+254,Luxury Beluga Caviar,"The epitome of indulgence, this Beluga caviar features large, delicate pearls with a buttery flavor, perfect for special occasions.",51,10,139.07
+255,Organic Matcha Green Tea,"A finely ground, vibrant green tea powder packed with antioxidants, offering a smooth, earthy flavor and a calming energy boost.",42,8,13.73
+256,Single Origin Ethiopian Coffee,"Sourced from Ethiopia?s highlands, this coffee boasts bright, fruity notes and a complex flavor profile, perfect for coffee enthusiasts.",47,9,16.29
+257,Dried Morel Mushrooms,"Prized for their rich, nutty flavor, these dried morel mushrooms are a gourmet addition to sauces, soups, and risottos.",11,3,9.21
+258,Himalayan Pink Salt,"Mined from ancient sea beds, this pink salt is rich in minerals and adds a subtle, balanced flavor to any dish.",14,3,3.26
+259,Artisan Blue Cheese,"A bold and creamy blue cheese with distinctive veins of mold, offering a sharp, tangy flavor that pairs perfectly with wines and fruits.",5,1,12.66
+260,Dark Chocolate Covered Almonds,"A delightful combination of crunchy almonds and rich dark chocolate, creating a perfect balance of sweetness and nuttiness.",9,2,12.22
+261,Truffle Sea Salt,"A luxurious blend of sea salt and black truffle, adding an earthy, umami flavor to meats, fries, and popcorn.",37,7,72.32
+262,Handmade Spaghetti,"Crafted with precision, this traditional spaghetti offers a perfect al dente texture, ideal for pairing with light olive oil-based sauces or classic tomato and basil.",56,11,15.59
+263,Handmade Stringozzi,"A rustic, thick spaghetti-like pasta from Umbria, offering a hearty texture that pairs beautifully with rich meat sauces or truffle-infused dishes.",56,11,18.01
+264,Handmade Ziti,"Tube-shaped pasta with a smooth surface, offering a versatile texture perfect for baked dishes, creamy sauces, or hearty rag?.",56,11,11.36
+265,Handmade Rustiche,"A unique, irregularly shaped pasta with ridges, offering a perfect texture for holding onto thick, chunky sauces or vegetable-based dishes.",55,11,19.09
+266,Handmade Pici,"Thick, hand-rolled pasta from Tuscany, offering a chewy, satisfying texture that pairs perfectly with garlic and breadcrumb sauces or rich meat rag?.",56,11,16.75
+267,Handmade Mafalde,"Ribbon-shaped pasta with ruffled edges, offering a luxurious texture that pairs beautifully with creamy sauces, seafood, or light tomato-based sauces.",56,11,13.99
+268,Handmade Maccheroni alla molinara,"A traditional, hand-cut pasta with a rustic texture, offering a perfect bite for hearty meat sauces, rag?, or vegetable-based dishes.",56,11,20.99
