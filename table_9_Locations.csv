@@ -1,0 +1,64 @@
+,Name,Address,Country,City,Zip
+0,Haute Épicerie Italy Rome,20 Piazza del Popolo,Italy,Rome,5767
+1,Haute Épicerie Italy Milan,2 Piazza del Popolo,Italy,Milan,6597
+2,Haute Épicerie Italy Naples,48 Corso Italia,Italy,Naples,1641
+3,Haute Épicerie Italy Turin,95 Piazza del Duomo,Italy,Turin,6049
+4,Haute Épicerie Italy Palermo,49 Strada Nuova,Italy,Palermo,2637
+5,Haute Épicerie Italy Genoa,27 Via Roma,Italy,Genoa,7208
+6,Haute Épicerie Italy Bologna,54 Strada Nuova,Italy,Bologna,8849
+7,Haute Épicerie France Paris,17 Rue du Louvre,France,Paris,2611
+8,Haute Épicerie France Marseille,90 Rue de Rivoli,France,Marseille,1417
+9,Haute Épicerie France Lyon,43 Rue de la Paix,France,Lyon,5560
+10,Haute Épicerie France Toulouse,29 Rue de la Liberté,France,Toulouse,1344
+11,Haute Épicerie France Nice,48 Rue de Rivoli,France,Nice,1885
+12,Haute Épicerie France Nantes,13 Boulevard Saint-Michel,France,Nantes,9188
+13,Haute Épicerie France Strasbourg,26 Boulevard Saint-Michel,France,Strasbourg,7901
+14,Haute Épicerie Spain Madrid,58 Calle Mayor,Spain,Madrid,9756
+15,Haute Épicerie Spain Barcelona,66 Plaza de España,Spain,Barcelona,9041
+16,Haute Épicerie Spain Valencia,77 Avenida de la Reina Victoria,Spain,Valencia,4372
+17,Haute Épicerie Spain Seville,38 Calle de la Paz,Spain,Seville,2706
+18,Haute Épicerie Spain Zaragoza,15 Calle Mayor,Spain,Zaragoza,9761
+19,Haute Épicerie Spain Malaga,26 Avenida de la Reina Victoria,Spain,Malaga,8968
+20,Haute Épicerie Spain Murcia,19 Calle Alcalá,Spain,Murcia,9754
+21,Haute Épicerie United Kingdom London,40 Regent Street,United Kingdom,London,4369
+22,Haute Épicerie United Kingdom Birmingham,26 Jermyn Street,United Kingdom,Birmingham,8485
+23,Haute Épicerie United Kingdom Manchester,10 Piccadilly Circus,United Kingdom,Manchester,7024
+24,Haute Épicerie United Kingdom Liverpool,55 Oxford Street,United Kingdom,Liverpool,9493
+25,Haute Épicerie United Kingdom Leeds,64 Regent Street,United Kingdom,Leeds,4770
+26,Haute Épicerie United Kingdom Glasgow,22 Baker Street,United Kingdom,Glasgow,2660
+27,Haute Épicerie United Kingdom Sheffield,79 Park Lane,United Kingdom,Sheffield,5447
+28,Haute Épicerie Luxembourg Luxembourg,37 Rue de la Poste,Luxembourg,Luxembourg,9509
+29,Haute Épicerie Luxembourg Esch-sur-Alzette,78 Rue de la Banque,Luxembourg,Esch-sur-Alzette,1930
+30,Haute Épicerie Luxembourg Differdange,15 Boulevard Royal,Luxembourg,Differdange,5867
+31,Haute Épicerie Luxembourg Bettembourg,23 Avenue de la Liberté,Luxembourg,Bettembourg,3583
+32,Haute Épicerie Luxembourg Mersch,84 Rue de la Douane,Luxembourg,Mersch,5156
+33,Haute Épicerie Luxembourg Diekirch,44 Avenue de la Liberté,Luxembourg,Diekirch,8860
+34,Haute Épicerie Luxembourg Echternach,57 Avenue de la Liberté,Luxembourg,Echternach,2733
+35,Haute Épicerie Belgium Brussels,81 Avenue Louise,Belgium,Brussels,8882
+36,Haute Épicerie Belgium Antwerp,75 Rue du Trône,Belgium,Antwerp,1476
+37,Haute Épicerie Belgium Ghent,78 Rue du Trône,Belgium,Ghent,9734
+38,Haute Épicerie Belgium Charleroi,86 Rue du Trône,Belgium,Charleroi,3479
+39,Haute Épicerie Belgium Liège,1 Rue de la Loi,Belgium,Liège,8055
+40,Haute Épicerie Belgium Bruges,95 Rue des Chartreux,Belgium,Bruges,7165
+41,Haute Épicerie Belgium Namur,35 Rue de la Loi,Belgium,Namur,6029
+42,Haute Épicerie Netherlands Amsterdam,65 Muntplein,Netherlands,Amsterdam,9166
+43,Haute Épicerie Netherlands Rotterdam,99 Leidseplein,Netherlands,Rotterdam,3084
+44,Haute Épicerie Netherlands The Hague,7 Prinsengracht,Netherlands,The Hague,2830
+45,Haute Épicerie Netherlands Utrecht,6 Haarlemmerstraat,Netherlands,Utrecht,1588
+46,Haute Épicerie Netherlands Eindhoven,95 Prinsengracht,Netherlands,Eindhoven,4085
+47,Haute Épicerie Netherlands Tilburg,26 Rokin,Netherlands,Tilburg,6701
+48,Haute Épicerie Netherlands Groningen,81 Muntplein,Netherlands,Groningen,8851
+49,Haute Épicerie Switzerland Zurich,20 Rue du Marché,Switzerland,Zurich,7856
+50,Haute Épicerie Switzerland Geneva,76 Rue de la Banque,Switzerland,Geneva,2449
+51,Haute Épicerie Switzerland Basel,80 Bahnhofstrasse,Switzerland,Basel,9397
+52,Haute Épicerie Switzerland Lausanne,76 Rue de la Banque,Switzerland,Lausanne,3685
+53,Haute Épicerie Switzerland Bern,21 Rue de la Confédération,Switzerland,Bern,1844
+54,Haute Épicerie Switzerland Winterthur,2 Rue de la République,Switzerland,Winterthur,8748
+55,Haute Épicerie Switzerland St. Gallen,82 Rue du Rhône,Switzerland,St. Gallen,2376
+56,Haute Épicerie Austria Vienna,46 Kärntner Straße,Austria,Vienna,9995
+57,Haute Épicerie Austria Graz,72 Opernring,Austria,Graz,3046
+58,Haute Épicerie Austria Linz,42 Stephansplatz,Austria,Linz,6355
+59,Haute Épicerie Austria Salzburg,8 Wiedner Hauptstraße,Austria,Salzburg,9913
+60,Haute Épicerie Austria Innsbruck,39 Opernring,Austria,Innsbruck,4743
+61,Haute Épicerie Austria Klagenfurt,57 Graben,Austria,Klagenfurt,5441
+62,Haute Épicerie Austria Sankt Pölten,15 Wiedner Hauptstraße,Austria,Sankt Pölten,7318
